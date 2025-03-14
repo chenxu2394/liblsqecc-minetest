@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-The `lsqecc_slicer` is a C++ Library implementing some tools for the [Lattice Surgery Compiler](https://github.com/latticesurgery-com/liblsqecc). The [`minetest` option](https://github.com/chenxu2394/liblsqecc/tree/minetest) has been added to generate a `map.sqlite` file for use with Minetest.
+The `lsqecc_slicer` is a C++ Library implementing some tools for the [Lattice Surgery Compiler](https://github.com/latticesurgery-com/liblsqecc). The [`minetest` option](https://github.com/chenxu2394/liblsqecc/) has been added to generate a `map.sqlite` file for use with Minetest.
 
 ## 2. Prerequisite
 
