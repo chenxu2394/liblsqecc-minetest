@@ -42,12 +42,8 @@ This configuration grants the player fly privileges and freezes the game time.
 ```bash
 git clone --recursive git@github.com:chenxu2394/liblsqecc.git
 cd liblsqecc
-checkout main
-mkdir build
-cd build
-cmake ..
-make -j
-cd ..
+cmake -S . -B build
+cmake --build build -- -j
 ```
 
 #### 2. Run the Code with the `--minetest` Option
