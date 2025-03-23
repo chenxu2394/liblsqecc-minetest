@@ -6,7 +6,7 @@ The `lsqecc_slicer` is a C++ Library implementing some tools for the [Lattice Su
 
 ## 2. Prerequisite
 
-The code has been tested on the minetest(luanti) of verion 5.11.0, on macOS 15.3.1
+The code has been tested on the minetest(luanti) of verion 5.11.0, on macOS 15.3.1 and Ubuntu 24.04.2 LTS.
 
 The map version is 29 according to the [minetest documentation](https://github.com/luanti-org/luanti/blob/master/doc/world_format.md)
 
@@ -61,5 +61,7 @@ The generated `map.sqlite` file will be created in the root directory of the rep
 ![Copy the `map.sqlite` file to the minetest world folder](./map.png)
 
 ### 3.5. Start the Minetest Game
+
+The structure can be found near the origin of the world.
 
 ![Start the minetest game](./result.gif)
