@@ -1,4 +1,4 @@
-# Usage Instruction for `lsqecc_slicer` with Minetest Option
+# Usage Instructions for `lsqecc_slicer` with Minetest Option
 
 ## 1. Introduction
 
